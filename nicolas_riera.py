@@ -1,3 +1,5 @@
+# Credit : Nicolas Riera
+
 nom = input("Entrez votre nom : ")
 
 n = -1
