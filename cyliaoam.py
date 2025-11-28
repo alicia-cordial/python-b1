@@ -13,4 +13,5 @@ while True:
 saluer(nom)
 
 for i in range(1, nombre + 1):
-    print(f"Python c'est cool !")
+    print("Python c'est cool !")
+
