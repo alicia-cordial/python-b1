@@ -7,7 +7,7 @@ while not(1 <= n <= 10):
         print("Veillez entrer un nombre dans la plage.")
 
 def saluer(nom):
-    print(f"Bonjour {nom}")
+    print(f"Bonjour {nom} !")
 
 saluer(nom)
 
