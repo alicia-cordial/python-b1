@@ -6,10 +6,10 @@ n = nombre
 
 def saluer(nom,n):
     if n < 11 :
-        return('bonjour', nom)
+        return(f'bonjour', nom)
 
     else : 
-        return('recommencer', nom)
+        return(f'recommencer', nom)
     
     
     
